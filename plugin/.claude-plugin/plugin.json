@@ -1,0 +1,19 @@
+{
+  "name": "ez-rev",
+  "displayName": "ez-rev",
+  "version": "0.1.0",
+  "description": "A review pane where Claude walks you through changes chunk by chunk, with inline definitions for third-party symbols and tracked variables",
+  "author": {
+    "name": "Trinityy2",
+    "url": "https://github.com/Trinityy2"
+  },
+  "homepage": "https://github.com/Trinityy2/ez-rev",
+  "repository": "https://github.com/Trinityy2/ez-rev",
+  "keywords": [
+    "code-review",
+    "review",
+    "diff",
+    "pane"
+  ],
+  "types": "./types/index.d.ts"
+}

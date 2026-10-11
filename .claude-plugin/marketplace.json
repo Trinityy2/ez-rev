@@ -1,0 +1,15 @@
+{
+  "name": "ez-rev",
+  "description": "ez-rev for Claude Code: review AI-written changes chunk by chunk in a pane beside the conversation.",
+  "owner": {
+    "name": "Trinityy2",
+    "url": "https://github.com/Trinityy2"
+  },
+  "plugins": [
+    {
+      "name": "ez-rev",
+      "source": "./plugin",
+      "description": "A review pane where Claude walks you through changes component by component, with inline definitions for third-party symbols and tracked variables."
+    }
+  ]
+}
